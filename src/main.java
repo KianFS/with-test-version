@@ -4,6 +4,11 @@ public class main {
         System.out.println("hello");
         Scanner input =new Scanner(System.in);
 
+
+    }
+    public static void  miseek(){
+        System.out.println("existence is pain");
+
     }
 
 }
